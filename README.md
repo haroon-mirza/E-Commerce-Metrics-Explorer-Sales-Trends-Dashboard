@@ -1,6 +1,5 @@
 # SalesAnalysisDashboard
 This project showcases my data analysis and visualization skills using Power BI and Jupyter Notebook. The goal of this project is to provide actionable insights from sales data, enabling data-driven decision-making for business improvement.
-Power BI Dashboard
 
 Explore the interactive Sales Analysis Dashboard to gain insights into key performance indicators, sales trends, and customer behavior. The dashboard features dynamic visualizations that highlight important metrics for strategic decision-making.
 Jupyter Notebook

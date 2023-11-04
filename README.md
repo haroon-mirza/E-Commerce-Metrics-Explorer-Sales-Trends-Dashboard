@@ -1,7 +1,7 @@
-# SalesAnalysisDashboard
+# E-Commerce Metrics Explorer: Sales & Trends Dashboard
 This project showcases my data analysis and visualization skills using Power BI and Jupyter Notebook. The goal of this project is to provide actionable insights from sales data, enabling data-driven decision-making for business improvement.
 
-Explore the interactive Sales Analysis Dashboard to gain insights into key performance indicators, sales trends, and customer behavior. The dashboard features dynamic visualizations that highlight important metrics for strategic decision-making.
+Explore the interactive Metric Explorer Dashboard to gain insights into key performance indicators, sales trends, and customer behavior. The dashboard features dynamic visualizations that highlight important metrics for strategic decision-making.
 Jupyter Notebook
 
 In the Notebooks folder, you'll find the RetailSalesAnalysis.ipynb notebook. This Jupyter Notebook showcases the data cleaning, exploratory analysis, and insights extraction process. The notebook is a valuable resource for understanding the data preprocessing and analysis techniques used to drive the dashboard's insights.

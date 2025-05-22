@@ -19,6 +19,10 @@ How to Use
     Open the Jupyter Notebook to see the data analysis process step by step.
     Customize the dashboard and notebook for your specific needs by adapting the code and visuals.
 
+![Dashboard](https://github.com/user-attachments/assets/5287834a-6e9e-416f-93a6-28a9e6e9fe4f)
+
+![Ecommerce](https://github.com/user-attachments/assets/769dc964-f1dc-4946-9ee8-aba6b0056050)
+
 About Me
 
 I am a passionate data expert with hands-on experience in using Power BI and Jupyter Notebook for data analysis and visualization. This project demonstrates my ability to transform raw data into meaningful insights that drive business decisions.
